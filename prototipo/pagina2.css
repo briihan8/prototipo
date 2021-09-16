@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bordes{
+    border: 1px solid brown;
+    border-radius: 5px;
+}

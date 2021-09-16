@@ -1,0 +1,28 @@
+.galery{
+    justify-self: last baseline;
+    border:1px saddlebrown
+    
+}
+
+header{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+    border-bottom: 2px;
+
+}
+.galery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+    border-bottom: 2px;
+}
